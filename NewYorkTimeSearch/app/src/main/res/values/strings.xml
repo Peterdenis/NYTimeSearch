@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewYorkTimeSearch</string>
+    <string name="enter_search_query">Enter Search Query</string>
+    <string name="button">SEARCH</string>
+    <string name="textview">TextView</string>
+    <string name="text_date">Begin Date</string>
+    <string name="name">Name</string>
+    <string name="sort_older">Sort Older</string>
+    <string name="news_desk_values">News Desk Values</string>
+    <string name="save">SAVE</string>
+    <string name="arts">Arts</string>
+    <string name="fashion_et_style">Fashion et Style</string>
+    <string name="sports">Sports</string>
+
+    <string-array name="orders">
+        <item>Oldest</item>
+    </string-array>
+</resources>
